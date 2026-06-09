@@ -17,3 +17,6 @@ Hospitals struggle with fragmented patient data, compliance risks, and inefficie
 - Audit‑ready compliance
 - Optimized staff allocation
 - Higher patient satisfaction
+
+## Project Artifacts
+Full Report (PDF): https://github.com/krithikaamadhumitha/HospitalManagement/blob/main/Hospital%20Management.pdf
